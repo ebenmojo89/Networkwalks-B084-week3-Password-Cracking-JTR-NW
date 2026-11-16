@@ -107,17 +107,13 @@ The cracked password can now be used to open the file as shown below:
 
 The following are some of the lessons learnt in this project:
 
-1. **Understanding the importance of strong passwords**
-   Always use long, unique passwords rather than simple or predictable ones as simple passwords can be guessed relatively quickly.
+1. **Understanding the importance of strong passwords:** Always use long, unique passwords rather than simple or predictable ones as simple passwords can be guessed relatively quickly.
 
-2. **Understanding encryption and password protection**
-   Strong encryption should be combined with strong passwords to provide effective data protection.
+2. **Understanding encryption and password protection:** Strong encryption should be combined with strong passwords to provide effective data protection.
 
-3. **Understanding the role of password hashes**
-   Password security depends not only on password complexity but also on how passwords and encryption keys are handled as JTR generally works by comparing     password hashes.
+3. **Understanding the role of password hashes:** Password security depends not only on password complexity but also on how passwords and encryption keys are handled as JTR generally works by comparing password hashes.
 
-4. **Understanding the limitations of password-cracking tools**
-   A password that cannot be cracked within a short period is not necessarily impossible to crack. It may simply require more time or computational            resources.
+4. **Understanding the limitations of password-cracking tools:** A password that cannot be cracked within a short period is not necessarily impossible to crack. It may simply require more time or computational resources.
 
 ---
 
