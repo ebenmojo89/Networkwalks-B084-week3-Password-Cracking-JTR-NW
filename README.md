@@ -8,7 +8,7 @@ Password Cracking with JTR and Networkwalks Tools
 | **Pentester Name (Cybersecurity Professional)** | **Ebenezer Twumasi Frimpong** |
 | **Program/Batch** | B084-Networkwalks |
 | **Date** | 16 November 2026 |
-| **Modules completed** | W3-PM1 (Password Cracking with John The Ripper)<br>W2-PM5 (Password Cracking with Networkwalks Tools) |
+| **Modules completed** | W3-PM1 (Password Cracking with John The Ripper)<br>W3-PM2 (Password Cracking with Networkwalks Tools) |
 | **Client/Target** | 3 Encrypted/Password-protected Files |
 | **Permission secured from client?** | Yes |
 
