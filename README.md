@@ -64,42 +64,42 @@ The table below lists each tool used in this project and its purpose.
 John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong passwords are. It started as a tool for Unix systems but now works on Windows, Linux and Mac. It can check many types of password hashes and also unlock password protected files like PDF, ZIP and Office documents. Johnny is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can use JTR without typing long commands. Both tools are widely used in security testing and learning labs to understand password safety. The following are the steps followed to crack the password-protected files:
 
 1. Download and install JTR and Johnny GUI on Windows.
-![](Screenshot1-JTR.png)
-![](Screenshot2-JTR.png)
+![](Screenshots/Screenshot1-JTR.png)
+![](Screenshots/Screenshot2-JTR.png)
 
 2. Extract JTR download and attach the john.exe extension file (john-1.9.0-jumbo-1-win64--john-1.9.0-jumbo-1-win64--run--john.exe) and add it to the Johnny GUI.
-![](Screenshot3-JTR.png)
+![](Screenshots/Screenshot3-JTR.png)
 
 3. Upload the locked PDF file on the `onlinehashcracker.com` website to calculate the hash of the file.
-![](Screenshot4-JTR-hash.png)
-![](Screenshot5-JTR-hash.png)
+![](Screenshots/Screenshot4-JTR-hash.png)
+![](Screenshots/Screenshot5-JTR-hash.png)
 
 4. Save the calculated hash in a text file.
-![](Screenshot6-JTR-hash.png)
+![](Screenshots/Screenshot6-JTR-hash.png)
 
 5. Upload the saved .txt file to the Johnny GUI and **Start new attack**. This will crack the pdf file based on the computer speed and password complexity. For this file the password was "good-luck".
-![](Screenshot7-JTR-hash.png)
+![](Screenshots/Screenshot7-JTR-hash.png)
 
 The cracked password can now be used to open the file as shown below:
-![](Screenshot8-JTR-cracked.png)
+![](Screenshots/Screenshot8-JTR-cracked.png)
 
 ## 5.2 Password Cracking with Networkwalks Tools
 
 This task employed the use of 2 NW tools to perform the same password cracking. These tools, Hash Calculator and Password Cracker are free online tools that runs in a web browser. The following are the steps followed to crack the password-protected files:
 
 1. Open the Hash Calculator in any web browser with the link `https://networkwalks.com/hash-calculator/`.
-![](Screenshot9-NW.png)
+![](Screenshots/Screenshot9-NW.png)
 
 2. Upload the encrypted file into the pdf section of the website and copy the hash calculated hash. There is also an available option to download the calculated hash into a .txt file.
-![](Screenshot10-NW-hash.png)
+![](Screenshots/Screenshot10-NW-hash.png)
 
 3. Open the Password Cracker in any web browser with the link `https://networkwalks.com/password-cracker/` and paste the hash to start cracking. There is again an option to upload one's own built directory or customised password file should NW default password-cracker be unsuccessful. For this file the password was "password1"
-![](Screenshot11-NW-cracker.png)
-![](Screenshot12-NW-cracked.png)
+![](Screenshots/Screenshot11-NW-cracker.png)
+![](Screenshots/Screenshot12-NW-cracked.png)
 
 The cracked password can now be used to open the file as shown below:
-![](Screenshot13-NW-locked.png)
-![](Screenshot14-NW-cracked.png)
+![](Screenshots/Screenshot13-NW-locked.png)
+![](Screenshots/Screenshot14-NW-cracked.png)
 
 ---
 
